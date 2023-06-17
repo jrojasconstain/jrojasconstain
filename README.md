@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @jrojasconstain
+- 
+- 📊 I'm an economist and (wannabe) behavioral scientist 
+- 
+- 👀 I’m interested in Data Science, Natural Languaje Processing and AI
+- 🌱 I’m currently learning Python and the basics of Generative AI
+- 
+- 💞️ I’m looking to collaborate on projects that implement AI to tackle societal problems and alleviate human suffering
+- 📫 You can reach me at @jrojasconstain on Twitter, or write me to jrojasconstain@gmail.com
