@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrojasconstain
+- 👋 Hi, I’m Juan José Rojas Constaín.
 - 
 - 📊 I'm an economist and (wannabe) behavioral scientist. 
 - 
