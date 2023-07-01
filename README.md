@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrojasconstain.
+- 👋 Hi, I’m @jrojasconstain
 - 
 - 📊 I'm an economist and (wannabe) behavioral scientist. 
 - 
